@@ -58,6 +58,7 @@ header{
 .texto-cabecalho{
     max-width: 350px;
     margin-top: 140px;
+    float: left;
 }
 
 h1{
