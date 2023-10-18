@@ -50,6 +50,30 @@ header{
     border-radius: 50px;
 }
 
+#logo {
+    margin-top: 20px;
+    width: 100px;
+}
+
+.texto-cabecalho{
+    max-width: 350px;
+    margin-top: 140px;
+}
+
+h1{
+    font-size: 34px;
+}
+
+p{
+    font-size: 15px;
+    line-height: 18px;
+    color: #777;
+}
+
+header .btn-comum{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
 /* SECTION SOBRE */
 
 #sobre{
